@@ -1,0 +1,79 @@
+vipassana meditation course????? ?? ?? ?? ?????talim to de di  lakin tayejb dena bhul gye 
+import java.util.*;
+class sai
+{
+ public static void main(String aa[])
+    {
+       Scanner sc=new Scanner(System.in);
+       int test=sc.nextInt();
+       while(test-->0)
+       {
+       https://www.youtube.com/watch?v=YOyfIMqc3zI&t=4s
+https://www.youtube.com/watch?v=1sEhruWmKS8
+
+       }
+   }
+}
+-------------------------------------
+import java.io.*;
+import java.util.*;
+
+public class Main extends PrintWriter {
+	Main() { super(System.out); }
+	Scanner sc = new Scanner(System.in);
+	public static void main(String[] $) {
+		Main o = new Main(); o.main(); o.flush();
+	}
+
+	void main() {
+		int t = sc.nextInt();
+		while (t-- > 0) {
+			
+			}
+		}
+	}
+----------------------------------------------------
+import java.io.*;
+import java.util.*;
+
+class Main extends PrintWriter {
+    Main() {
+        super(System.out);
+    }
+    Scanner sc = new Scanner(System.in);
+    public static void main(String[] $) {
+        Main o = new Main();
+        o.main();
+        o.flush();
+    }
+
+    void main() {
+        int a = 102;
+        int b = 1033;
+        int c = 104;
+        if (a > b && a > c) {
+            println("In " + a + " " + b + " " + c + " " + " largest is " + "a=" + a);
+        } else if (b > c) {
+
+            println("In " + a + " " + b + " " + c + " " + " largest is " + "b=" + b);
+        } else {
+
+            println("In " + a + " " + b + " " + c + " " + " largest is " + "c=" + c);
+        }
+    }
+}
+
+
+-------------------------------------------
+//part= substring
+removesubstring occurences(String s,String part)
+{
+StringBuilder sb=new StringBuilder(s);
+int index=sb.index.of(part);
+while(index>=0)
+{
+sb.delete(index,index+part.length());//(start,strat+end)
+index=sb.indexof(part);
+}
+return sb.toString();
+}
