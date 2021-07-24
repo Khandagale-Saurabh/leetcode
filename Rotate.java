@@ -1,5 +1,5 @@
 import java.util.*;
-//to rotate
+//to rotate 
    public class Rotate{
 
    public static void main(String[] args)
