@@ -1,3 +1,17 @@
 PrefixSum=
 for(1 to n)
 sum=a[i-1]+a[i];
+
+
+2's compl => 1's+1
+ans=num&~num;
+
+[kanigum algortitm] count no.1's
+1001000001
+>  >      >
+-1  -1     -1 
+
+diretc one pe jump
+
+
+ 
